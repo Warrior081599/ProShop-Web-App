@@ -25,7 +25,7 @@ This project belongs to MERN Stack eCommerce Platform . It is a full-featured sh
 
 ### Env Variables
 
-Rename the `.env.example` file to `.env` and add the following
+create file `.env` and add the following
 
 ```
 NODE_ENV = development
